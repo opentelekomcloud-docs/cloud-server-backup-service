@@ -36,7 +36,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0164873120.png
       :alt: **Figure 1** Deleting a backup
 
-
       **Figure 1** Deleting a backup
 
 #. Click **Yes**.

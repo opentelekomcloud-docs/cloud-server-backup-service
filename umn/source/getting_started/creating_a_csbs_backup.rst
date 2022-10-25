@@ -33,7 +33,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0164859557.png
       :alt: **Figure 1** Selecting servers
 
-
       **Figure 1** Selecting servers
 
    .. note::
@@ -47,7 +46,6 @@ Procedure
 
    .. figure:: /_static/images/en-us_image_0152874351.png
       :alt: **Figure 2** Configuring backup schemes
-
 
       **Figure 2** Configuring backup schemes
 
@@ -98,7 +96,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0127861516.png
       :alt: **Figure 3** Enabling Full Backup or not
 
-
       **Figure 3** Enabling Full Backup or not
 
 #. Add tags to the backup. (This operation is optional if you select **Immediate Backup**.)
@@ -111,7 +108,6 @@ Procedure
 
    .. figure:: /_static/images/en-us_image_0164859985.png
       :alt: **Figure 4** Adding a tag
-
 
       **Figure 4** Adding a tag
 

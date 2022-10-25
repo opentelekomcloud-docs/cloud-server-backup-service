@@ -38,7 +38,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0164876805.png
       :alt: **Figure 1** Editing a backup policy
 
-
       **Figure 1** Editing a backup policy
 
    Related parameters are described in :ref:`Table 1 <en-us_topic_0056584629__table18975142115146>`.

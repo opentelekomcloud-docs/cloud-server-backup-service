@@ -42,7 +42,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0164880794.png
       :alt: **Figure 1** Restoring a server
 
-
       **Figure 1** Restoring a server
 
 #. Optional: Deselect **Start the server immediately after restoration**.
