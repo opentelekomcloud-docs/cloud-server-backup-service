@@ -30,7 +30,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0198726086.png
       :alt: **Figure 1** Creating a backup policy
 
-
       **Figure 1** Creating a backup policy
 
 #. Set the backup policy parameters according to :ref:`Table 1 <en-us_topic_0056584629__table18975142115146>`.
@@ -136,7 +135,6 @@ Procedure
 
    .. figure:: /_static/images/en-us_image_0164875135.png
       :alt: **Figure 2** Associating servers
-
 
       **Figure 2** Associating servers
 

@@ -18,7 +18,6 @@ CSBS works with ECS and OBS to back up ECS data to object storage, enhancing bac
 .. figure:: /_static/images/en-us_image_0067805991.png
    :alt: **Figure 1** CSBS product architecture
 
-
    **Figure 1** CSBS product architecture
 
 Main Functions

@@ -38,5 +38,4 @@ You can also use the two backup options together if needed. For example, associa
 .. figure:: /_static/images/en-us_image_0067805744.png
    :alt: **Figure 1** Intermixed use of the two backup options
 
-
    **Figure 1** Intermixed use of the two backup options

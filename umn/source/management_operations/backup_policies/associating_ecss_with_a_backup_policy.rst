@@ -31,7 +31,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0164878450.png
       :alt: **Figure 1** Associating servers
 
-
       **Figure 1** Associating servers
 
 #. In the server list, select the ECSs you want to associate. After ECSs are selected, they are added to the list of selected servers.

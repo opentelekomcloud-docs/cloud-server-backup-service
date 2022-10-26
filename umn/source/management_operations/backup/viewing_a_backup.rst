@@ -91,7 +91,6 @@ View Backup Space Usage
    .. figure:: /_static/images/en-us_image_0164860175.png
       :alt: **Figure 1** Backup overview
 
-
       **Figure 1** Backup overview
 
 #. In the displayed dialog box, view the storage space usage.
@@ -101,7 +100,6 @@ View Backup Space Usage
 
    .. figure:: /_static/images/en-us_image_0164860652.png
       :alt: **Figure 2** Storage space usage
-
 
       **Figure 2** Storage space usage
 
