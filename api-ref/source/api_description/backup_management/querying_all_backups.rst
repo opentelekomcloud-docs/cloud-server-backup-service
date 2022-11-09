@@ -99,7 +99,7 @@ Response
       ================ ===================== ===========
       Parameter        Type                  Description
       ================ ===================== ===========
-      checkpoint_items List<checkpoint_item> -
+      checkpoint_items List<checkpoint_item> ``-``
       ================ ===================== ===========
 
 -  Parameter description of field **checkpoint_item**
