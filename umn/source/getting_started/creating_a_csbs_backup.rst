@@ -51,7 +51,7 @@ Procedure
 
    -  **Auto Backup**:
 
-      In the **Backup Policy** drop-down list, select a backup policy. Alternatively, click **Create Policy** to create a backup policy. For details about the parameters of a backup policy, see :ref:`Creating a Backup Policy <en-us_topic_0056584629>`.
+      In the **Backup Policy** drop-down list, select a backup policy. Alternatively, click **Create Policy** to create a backup policy. For details about backup policy parameters, see :ref:`Creating a Backup Policy <en-us_topic_0056584629>`.
 
       After a backup job is created, the selected ECSs are associated with the backup policy and will be periodically backed up according to the backup policy.
 
@@ -74,7 +74,7 @@ Procedure
          +=======================+===================================================================================================================================================+=======================+
          | Name                  | Name of the backup you are creating.                                                                                                              | manualbk_cbf0         |
          |                       |                                                                                                                                                   |                       |
-         |                       | It is a string of 1 to 255 characters that can contain only digits, letters, underscores (_), and hyphens (-).                                    |                       |
+         |                       | Enter a maximum of 255 characters, including only letters, digits, hyphens (-), and underscores (_).                                              |                       |
          |                       |                                                                                                                                                   |                       |
          |                       | .. note::                                                                                                                                         |                       |
          |                       |                                                                                                                                                   |                       |
