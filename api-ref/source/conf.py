@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'csbs-api-ref.tex',
-     u'Cloud Server Backup Service - API Reference',
+    u'Cloud Server Backup Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
