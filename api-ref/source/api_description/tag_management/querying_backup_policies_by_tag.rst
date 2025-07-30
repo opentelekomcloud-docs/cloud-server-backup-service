@@ -330,7 +330,7 @@ Response
               {
                   "resource_detail": {},
                   "resource_id": "cdfs_cefs_wesas_12_dsad",
-                  "resource_name": "resouece1",
+                  "resource_name": "resource1",
                   "tags": [
                       {
                          "key": "key1",
