@@ -5,7 +5,7 @@
 Service Overview
 ================
 
--  :ref:`CSBS <en-us_topic_0056725842>`
+-  :ref:`What Is CSBS? <en-us_topic_0056725842>`
 -  :ref:`Application Scenarios <en-us_topic_0056725843>`
 -  :ref:`Related Services <en-us_topic_0056725844>`
 -  :ref:`Basic Concepts <en-us_topic_0056725845>`
@@ -17,7 +17,7 @@ Service Overview
    :maxdepth: 1
    :hidden: 
 
-   csbs
+   what_is_csbs
    application_scenarios
    related_services
    basic_concepts

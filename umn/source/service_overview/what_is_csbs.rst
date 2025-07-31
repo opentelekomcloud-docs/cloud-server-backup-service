@@ -2,8 +2,10 @@
 
 .. _en-us_topic_0056725842:
 
-CSBS
-====
+What Is CSBS?
+=============
+
+This service is available only for users and projects where this service has already been used. If you are new to OTC Cloud, go to the console of the next-generation service, Cloud Backup and Recovery (CBR), which integrates Cloud Server Backup Service (CSBS).
 
 Cloud Server Backup Service (CSBS) enables you to back up Elastic Cloud Servers (ECSs). It works based on the consistency snapshot technology for disks. With CSBS, you can seamlessly use backup data to restore ECS data.
 

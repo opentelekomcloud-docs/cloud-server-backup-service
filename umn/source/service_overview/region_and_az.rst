@@ -25,7 +25,7 @@ A region and availability zone (AZ) identify the location of a data center. You 
 Selecting a Region
 ------------------
 
-Select a region closest to your target users for lower network latency and quick access.
+You are advised to select a region close to you or your target users. This helps ensure low access latency.
 
 Selecting an AZ
 ---------------
@@ -38,4 +38,4 @@ When deploying resources, consider your applications' requirements on disaster r
 Regions and Endpoints
 ---------------------
 
-Before you use an API to call resources, specify its region and endpoint. For more details, see `Regions and Endpoints <https://docs.otc.t-systems.com/en-us/endpoint/index.html>`__.
+Before you use an API to call resources, specify its region and endpoint. For more details, see `Regions and Endpoints <https://docs.otc.t-systems.com/regions-and-endpoints/index.html>`__.

@@ -18,7 +18,7 @@ Prerequisites
 -  The backup you want to use to create an image meets either of the following two conditions:
 
    -  The backup is in the **Available** state.
-   -  The backup is in the **Creating** state which is marked with **Image can be created**.
+   -  The backup is in the **Creating** state which is marked with "Image can be created".
 
    .. note::
 
