@@ -499,7 +499,7 @@ Response
    .. code-block::
 
       {
-          "status":"aviable",
+          "status":"available",
           "backup_data":{
               "eip":"",
               "cloudservicetype":"QEMU",
