@@ -31,10 +31,10 @@ Backups generated before Instant Restore is enabled do not support instant resto
 
 No matter whether an ECS has been backed up or not, its automatic backups generated after Instant Restore is enabled do not support instant restoration, unless you manually perform a full backup on it.
 
-Enhanced backup
----------------
+Enhanced Backups
+----------------
 
-Backups whose backup type is **Common backup** do not support Instant Restore. Backups whose backup type is **Enhanced backup** support Instant Restore.
+Enhanced backups are backups generated after Instant Restore is supported. They make it faster to restore server data or create images. Backups whose backup type is **Common backup** do not support Instant Restore. Backups whose backup type is **Enhanced backup** support Instant Restore.
 
 Project
 -------
